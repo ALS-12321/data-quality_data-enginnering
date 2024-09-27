@@ -1,1 +1,101 @@
-Surgeries_and_Procedures
+ID,Procedimiento,Duracion (min),Fecha de Realizacion,Costo (USD),Cirujano Responsable
+1,Apéndice,60,2023-08-15,2000,Dr. Perez
+2,Colecistectomía,45,2023/07/10,3000,Dr. Ramirez
+3,Herniorrafia,30,2023-06-25,1500,Dr. Gutierrez
+4,Fractura de femur,180,2024-09-12,-5000,Dr. Salinas
+5,Amigdalectomía,15,2022-11-01,1200,Dr. Suarez
+6,Reemplazo de rodilla,240,2023-08-20,8500,Dr. Perez
+7,Lobectomia pulmonar,360,2022-14-05,12000,Dr. Miranda
+8,Angioplastia,50,2024-05-22,2500,Dr. Rios
+9,Cirugía de columna,600,,11000,Dr. Perez
+10,Apéndice,90,2023-12-15,2100,Dr. Perez
+11,Trasplante renal,180,2024-03-10,35000,Dr. Romero
+12,Parto por cesárea,90,2023-09-07,5000,Dr. Perez
+13,Colecistectomía,45,2023-07-10,2500,Dr. Ramirez
+14,Cirugía cardíaca,720,2025-04-12,75000,Dr. Gutierrez
+15,Herniorrafia,20,2023-07-19,1300,Dr. Gutierrez
+16,Bypass gástrico,600,2022-06-10,45000,Dr. Perez
+17,Amigdalectomía,999,2024-08-10,2000,Dr. Suarez
+18,Fractura de femur,60,2023-05-30,-8000,Dr. Salinas
+19,Lobectomia pulmonar,180,2023-11-15,13000,Dr. Miranda
+20,Reemplazo de cadera,120,2024-12-05,9200,Dr. Perez
+21,Apéndice,50,2024-01-11,1900,Dr. Perez
+22,Parto por cesárea,200,2022/08/10,0,Dr. Perez
+23,Angioplastia,45,2023-07-22,2600,Dr. Rios
+24,Herniorrafia,15,,1200,Dr. Gutierrez
+25,Cirugía de columna,500,2025-05-05,10500,Dr. Perez
+26,Colecistectomía,100,2023-09-10,3500,Dr. Ramirez
+27,Fractura de femur,30,2024-07-07,-500,Dr. Salinas
+28,Cirugía cardíaca,0,2024-04-12,80000,Dr. Gutierrez
+29,Reemplazo de rodilla,240,2024-06-21,8000,Dr. Perez
+30,Amigdalectomía,10,2023-11-10,1000,Dr. Suarez
+31,Trasplante renal,999,2024-09-05,50000,Dr. Romero
+32,Lobectomia pulmonar,150,2024-01-15,12000,Dr. Miranda
+33,Cirugía de columna,200,2023-12-01,11500,Dr. Perez
+34,Parto por cesárea,95,2024-03-22,5300,Dr. Perez
+35,Herniorrafia,45,2023-09-10,1400,Dr. Gutierrez
+36,Angioplastia,80,2024-11-11,2700,Dr. Rios
+37,Apéndice,60,2022-07-12,2200,Dr. Perez
+38,Reemplazo de cadera,300,2024-06-05,9500,Dr. Perez
+39,Colecistectomía,70,2023-05-17,3700,Dr. Ramirez
+40,Parto por cesárea,90,,0,Dr. Perez
+41,Fractura de femur,180,2024-05-02,7500,Dr. Salinas
+42,Apéndice,60,2023-08-15,2000,Dr. Perez
+43,Trasplante renal,180,2024-03-10,35000,Dr. Romero
+44,Cirugía cardíaca,720,2025-04-12,75000,Dr. Gutierrez
+45,Amigdalectomía,15,2022-11-01,1200,Dr. Suarez
+46,Colecistectomía,45,2023/07/10,3000,Dr. Ramirez
+47,Herniorrafia,30,2023-06-25,1500,Dr. Gutierrez
+48,Fractura de femur,180,2024-09-12,-5000,Dr. Salinas
+49,Reemplazo de rodilla,240,2023-08-20,8500,Dr. Perez
+50,Amigdalectomía,999,2024-08-10,2000,Dr. Suarez
+51,Lobectomia pulmonar,360,2022-14-05,12000,Dr. Miranda
+52,Colecistectomía,45,2023/07/10,3000,Dr. Ramirez
+53,Fractura de femur,180,2024-09-12,-5000,Dr. Salinas
+54,Apéndice,90,2023-12-15,2100,Dr. Perez
+55,Trasplante renal,180,2024-03-10,35000,Dr. Romero
+56,Parto por cesárea,90,2023-09-07,5000,Dr. Perez
+57,Colecistectomía,45,2023-07-10,2500,Dr. Ramirez
+58,Cirugía cardíaca,720,2025-04-12,75000,Dr. Gutierrez
+59,Herniorrafia,20,2023-07-19,1300,Dr. Gutierrez
+60,Bypass gástrico,600,2022-06-10,45000,Dr. Perez
+61,Amigdalectomía,999,2024-08-10,2000,Dr. Suarez
+62,Fractura de femur,60,2023-05-30,-8000,Dr. Salinas
+63,Lobectomia pulmonar,180,2023-11-15,13000,Dr. Miranda
+64,Reemplazo de cadera,120,2024-12-05,9200,Dr. Perez
+65,Apéndice,50,2024-01-11,1900,Dr. Perez
+66,Parto por cesárea,200,2022/08/10,0,Dr. Perez
+67,Angioplastia,45,2023-07-22,2600,Dr. Rios
+68,Herniorrafia,15,,1200,Dr. Gutierrez
+69,Cirugía de columna,500,2025-05-05,10500,Dr. Perez
+70,Colecistectomía,100,2023-09-10,3500,Dr. Ramirez
+71,Fractura de femur,30,2024-07-07,-500,Dr. Salinas
+72,Cirugía cardíaca,0,2024-04-12,80000,Dr. Gutierrez
+73,Reemplazo de rodilla,240,2024-06-21,8000,Dr. Perez
+74,Amigdalectomía,10,2023-11-10,1000,Dr. Suarez
+75,Trasplante renal,999,2024-09-05,50000,Dr. Romero
+76,Lobectomia pulmonar,150,2024-01-15,12000,Dr. Miranda
+77,Cirugía de columna,200,2023-12-01,11500,Dr. Perez
+78,Parto por cesárea,95,2024-03-22,5300,Dr. Perez
+79,Herniorrafia,45,2023-09-10,1400,Dr. Gutierrez
+80,Angioplastia,80,2024-11-11,2700,Dr. Rios
+81,Apéndice,60,2022-07-12,2200,Dr. Perez
+82,Reemplazo de cadera,300,2024-06-05,9500,Dr. Perez
+83,Colecistectomía,70,2023-05-17,3700,Dr. Ramirez
+84,Parto por cesárea,90,,0,Dr. Perez
+85,Fractura de femur,180,2024-05-02,7500,Dr. Salinas
+86,Apéndice,60,2023-08-15,2000,Dr. Perez
+87,Trasplante renal,180,2024-03-10,35000,Dr. Romero
+88,Cirugía cardíaca,720,2025-04-12,75000,Dr. Gutierrez
+89,Amigdalectomía,15,2022-11-01,1200,Dr. Suarez
+90,Colecistectomía,45,2023/07/10,3000,Dr. Ramirez
+91,Herniorrafia,30,2023-06-25,1500,Dr. Gutierrez
+92,Fractura de femur,180,2024-09-12,-5000,Dr. Salinas
+93,Reemplazo de rodilla,240,2023-08-20,8500,Dr. Perez
+94,Lobectomia pulmonar,360,2022-14-05,12000,Dr. Miranda
+95,Angioplastia,50,2024-05-22,2500,Dr. Rios
+96,Cirugía de columna,600,,11000,Dr. Perez
+97,Apéndice,90,2023-12-15,2100,Dr. Perez
+98,Trasplante renal,180,2024-03-10,35000,Dr. Romero
+99,Parto por cesárea,90,2023-09-07,5000,Dr. Perez
+100,Fractura de femur,180,2024-09-12,-5000,Dr. Salinas
