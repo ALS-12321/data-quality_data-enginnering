@@ -1,1 +1,101 @@
-Patient_Clinical_History
+ID,Paciente,Edad,Fecha de Ingreso,Diagnostico,Medico Responsable
+1,Juan Perez,30,2023-03-12,Gastritis,Dr. Suarez
+2,Maria Lopez,45,2022/07/10,Diabetes,Dr. Ramirez
+3,Carlos Martinez,101,2022-11-15,Insuficiencia Cardiaca,Dr. Gutierrez
+4,Josefa Rios,-5,2024-02-30,Hipertension,Dr. Salinas
+5,Pedro Sanchez,28,2023-06-05,Asma,Dr. Suarez
+6,Luis Ramirez,120,2023-08-25,Colitis,Dr. Garcia
+7,Ana Fernandez,,2023-09-12,Gripe,Dr. Perez
+8,Isabel Romero,60,2022-12-30,Cancer de mama,Dr. Martinez
+9,Raul Castro,85,2024-04-01,Neumonia,Dr. Salinas
+10,Juana Ortega,25,2023-05-15,Migraña,Dr. Gutierrez
+11,Juan Perez,30,2023-03-12,Gastritis,Dr. Suarez
+12,Felipe Mendoza,40,2023-06-01,Diabetes,Dr. Rios
+13,Carmen Luna,70,2024-13-10,Hipertension,Dr. Suarez
+14,Oscar Garcia,55,2022-11-22,Colesterol alto,Dr. Gutierrez
+15,Elena Flores,200,2023-08-15,Artritis,Dr. Ramirez
+16,Claudia Ruiz,40,2022-10-10,Esclerosis Multiple,Dr. Perez
+17,Roberto Mendez,50,,Depresion,Dr. Rios
+18,Julio Morales,30,2022-07-20,Sindrome de fatiga cronica,Dr. Salinas
+19,Lucia Torres,105,2023-09-18,Anemia,Dr. Garcia
+20,Oscar Reyes,22,2024-05-05,Lupus,Dr. Gutierrez
+21,Adriana Castillo,18,2022-06-12,Colitis,Dr. Martinez
+22,Juan Perez,30,2023-03-12,Gastritis,Dr. Suarez
+23,Sofia Gomez,67,2023-07-07,Hepatitis,Dr. Gutierrez
+24,Pedro Sanchez,28,2023-06-05,Asma,Dr. Suarez
+25,Marcelo Vargas,-3,2023-02-28,Enfermedad Renal,Dr. Salinas
+26,Ana Romero,80,2024-01-10,Alzheimer,Dr. Rios
+27,Victor Castro,72,2023-03-30,Accidente cerebrovascular,Dr. Perez
+28,Elena Flores,35,,Depresion,Dr. Ramirez
+29,Susana Vega,45,2024-07-14,Diabetes,Dr. Martinez
+30,Felipe Mendoza,40,2023-06-01,Diabetes,Dr. Rios
+31,Isabel Romero,60,2022-12-30,Cancer de mama,Dr. Martinez
+32,Fernando Ramos,90,2024-04-22,Pulmonia,Dr. Suarez
+33,Pedro Gutierrez,50,2023/08/10,Infarto,Dr. Gutierrez
+34,Claudia Garcia,35,2023-05-18,Esclerosis Multiple,Dr. Perez
+35,Roberto Ortiz,25,2024-10-11,Hernia,Dr. Garcia
+36,Juana Ortega,25,2023-05-15,Migraña,Dr. Gutierrez
+37,Juan Martinez,200,2022-11-01,Gripe,Dr. Salinas
+38,Lucia Torres,105,2023-09-18,Anemia,Dr. Garcia
+39,Andres Castillo,48,2023-12-25,Insuficiencia Renal,Dr. Gutierrez
+40,Jose Mendez,102,2024-03-08,Fibromialgia,Dr. Rios
+41,Ana Fernandez,40,,Insuficiencia Cardiaca,Dr. Perez
+42,Felipe Garcia,47,2023-06-05,Sindrome de intestino irritable,Dr. Salinas
+43,Roberto Mendez,50,,Depresion,Dr. Rios
+44,Claudia Ruiz,40,2022-10-10,Esclerosis Multiple,Dr. Perez
+45,Oscar Garcia,55,2022-11-22,Colesterol alto,Dr. Gutierrez
+46,Marcelo Vargas,-3,2023-02-28,Enfermedad Renal,Dr. Salinas
+47,Ana Romero,80,2024-01-10,Alzheimer,Dr. Rios
+48,Victor Castro,72,2023-03-30,Accidente cerebrovascular,Dr. Perez
+49,Pedro Gutierrez,50,2023/08/10,Infarto,Dr. Gutierrez
+50,Juan Martinez,200,2022-11-01,Gripe,Dr. Salinas
+51,Sofia Gomez,67,2023-07-07,Hepatitis,Dr. Gutierrez
+52,Raul Castro,85,2024-04-01,Neumonia,Dr. Salinas
+53,Juana Ortega,25,2023-05-15,Migraña,Dr. Gutierrez
+54,Felipe Mendoza,40,2023-06-01,Diabetes,Dr. Rios
+55,Elena Flores,35,,Depresion,Dr. Ramirez
+56,Adriana Castillo,18,2022-06-12,Colitis,Dr. Martinez
+57,Lucia Torres,105,2023-09-18,Anemia,Dr. Garcia
+58,Roberto Ortiz,25,2024-10-11,Hernia,Dr. Garcia
+59,Ana Fernandez,,2023-09-12,Gripe,Dr. Perez
+60,Claudia Ruiz,40,2022-10-10,Esclerosis Multiple,Dr. Perez
+61,Carlos Martinez,101,2022-11-15,Insuficiencia Cardiaca,Dr. Gutierrez
+62,Josefa Rios,-5,2024-02-30,Hipertension,Dr. Salinas
+63,Fernando Ramos,90,2024-04-22,Pulmonia,Dr. Suarez
+64,Pedro Sanchez,28,2023-06-05,Asma,Dr. Suarez
+65,Oscar Reyes,22,2024-05-05,Lupus,Dr. Gutierrez
+66,Claudia Garcia,35,2023-05-18,Esclerosis Multiple,Dr. Perez
+67,Roberto Ortiz,25,2024-10-11,Hernia,Dr. Garcia
+68,Victor Castro,72,2023-03-30,Accidente cerebrovascular,Dr. Perez
+69,Fernando Ramos,90,2024-04-22,Pulmonia,Dr. Suarez
+70,Adriana Castillo,18,2022-06-12,Colitis,Dr. Martinez
+71,Marcelo Vargas,-3,2023-02-28,Enfermedad Renal,Dr. Salinas
+72,Jose Mendez,102,2024-03-08,Fibromialgia,Dr. Rios
+73,Andres Castillo,48,2023-12-25,Insuficiencia Renal,Dr. Gutierrez
+74,Pedro Gutierrez,50,2023/08/10,Infarto,Dr. Gutierrez
+75,Sofia Gomez,67,2023-07-07,Hepatitis,Dr. Gutierrez
+76,Felipe Mendoza,40,2023-06-01,Diabetes,Dr. Rios
+77,Roberto Ortiz,25,2024-10-11,Hernia,Dr. Garcia
+78,Juan Perez,30,2023-03-12,Gastritis,Dr. Suarez
+79,Juana Ortega,25,2023-05-15,Migraña,Dr. Gutierrez
+80,Oscar Garcia,55,2022-11-22,Colesterol alto,Dr. Gutierrez
+81,Ana Fernandez,,2023-09-12,Gripe,Dr. Perez
+82,Pedro Sanchez,28,2023-06-05,Asma,Dr. Suarez
+83,Lucia Torres,105,2023-09-18,Anemia,Dr. Garcia
+84,Raul Castro,85,2024-04-01,Neumonia,Dr. Salinas
+85,Elena Flores,35,,Depresion,Dr. Ramirez
+86,Roberto Mendez,50,,Depresion,Dr. Rios
+87,Ana Fernandez,,2023-09-12,Gripe,Dr. Perez
+88,Oscar Reyes,22,2024-05-05,Lupus,Dr. Gutierrez
+89,Fernando Ramos,90,2024-04-22,Pulmonia,Dr. Suarez
+90,Roberto Ortiz,25,2024-10-11,Hernia,Dr. Garcia
+91,Oscar Reyes,22,2024-05-05,Lupus,Dr. Gutierrez
+92,Carmen Luna,70,2024-13-10,Hipertension,Dr. Suarez
+93,Lucia Torres,105,2023-09-18,Anemia,Dr. Garcia
+94,Fernando Ramos,90,2024-04-22,Pulmonia,Dr. Suarez
+95,Ana Romero,80,2024-01-10,Alzheimer,Dr. Rios
+96,Roberto Mendez,50,,Depresion,Dr. Rios
+97,Oscar Reyes,22,2024-05-05,Lupus,Dr. Gutierrez
+98,Lucia Torres,105,2023-09-18,Anemia,Dr. Garcia
+99,Felipe Mendoza,40,2023-06-01,Diabetes,Dr. Rios
+100,Raul Castro,85,2024-04-01,Neumonia,Dr. Salinas
